@@ -13,3 +13,7 @@
 1. The user enters their date of birth (day, month, year).
 2. The app calculates the difference between the current date and the entered birthdate.
 3. The result is displayed as the user's age in full years.
+
+## Aplicativo em funcionamento
+
+![What's my age App](images/Aplicativo.jpg)
